@@ -1,5 +1,5 @@
 import React from 'react'
-
+import GifListContainer from '../containers/GifListContainer'
 import NavBar from './NavBar'
 import GifListContainer from  '../containers/GifListContainer'
 
